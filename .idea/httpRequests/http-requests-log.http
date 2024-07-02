@@ -1,0 +1,20 @@
+POST http://localhost:8080/register
+Content-Type: application/json
+Content-Length: 149
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email": "teresejosephyisa@gmail.com",
+  "phoneNumber": "09022570332",
+  "number": 2,
+  "street": "here",
+  "city": "there",
+  "state": "Lagos"
+}
+
+<> 2024-05-27T230712.500.json
+
+###
+

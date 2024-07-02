@@ -1,0 +1,4 @@
+{
+  "data": "Cannot invoke \"org.springframework.mail.javamail.JavaMailSender.send(org.springframework.mail.SimpleMailMessage)\" because \"this.mailSender\" is null",
+  "successful": false
+}
